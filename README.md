@@ -1,6 +1,12 @@
 # Personal Portfolio Website — v1
 
-My name is Jayasriraam, and I’m a front-end Developer based in Chennai. My passion lies in creating software and Web Applications that solves real-world problems and positively impacts people’s lives.
+[![CI](https://github.com/Jay-Raam/Jay-Portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/Jay-Raam/Jay-Portfolio/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Next.js](https://img.shields.io/badge/Next.js-13-000000?logo=next.js)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)](https://react.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-06B6D4?logo=tailwindcss)](https://tailwindcss.com/)
+
+My name is Jayasriraam, and I’m a Full Stack Developer based in Chennai. My passion lies in creating software and Web Applications that solves real-world problems and positively impacts people’s lives.
 
 I created this website to showcase my work. I’m always striving to create something unique and innovative.
 
